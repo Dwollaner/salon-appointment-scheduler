@@ -9,11 +9,12 @@ echo "1) cut"
 echo "2) wash"
 echo "3) styling"
 }
-
+  
+  SERVICES
+  
   while [ true ]
   do
-  SERVICES
-
+  
   #Read user input
   echo "Input service id: "
   read SERVICE_ID_SELECTED
